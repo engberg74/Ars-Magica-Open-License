@@ -19,5 +19,9 @@ https://www.redcap.org/page/Ars_Magica_Open_Content_Conversion_Tracker*
 <br/>
 <br/>
 <br/>
+**Shameless Plug:** If you are here for Ars Magica content, you're very likely to appreciate my other project - The Ars Magica Chronology: https://forum.atlas-games.com/t/the-ars-magica-chronology-project-200-pages-timeline-of-the-order-and-the-history-of-magic/171381
+<br/>
+<br/>
+<br/>
 The text of Ars Magica 5th Edition and its sourcebooks (53 books total) has been released under an open license: the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0):
 https://www.atlas-games.com/arsmagica/openars
