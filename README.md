@@ -11,7 +11,7 @@ This is a work-in-progress repository for machine-extracted, manually fixed mark
 * In the **wip-mediawiki** folder, you'll find everything from the **wip** folder converted (via pandoc in gfm mode) to Mediawiki format. This is for convenience. I can't take submissions for fixes on this. Please submit for Markdown, which is a way more convenient format.
 * In the **done** folder, I expect to place finished Markdown files in tip-top shape as I/we progress. These will be the permanent complete versions.
 
-The public is welcome to commit new and better versions of any of these files (I mainly expect this to be by manual edit while referencing the original works). Please make sure to provide information on what's been corrected, as well as any remaining issues. I'll try to quickly accept improvements to the repository after review (make my life easier, and it will be faster). *As of now, the 3rd edition supplements are most in need.*
+The public is welcome to commit fixes, new and better versions of any of these files (I mainly expect this to be by manual edit while referencing the original works). Please make sure to provide information on what's been corrected, as well as any remaining issues. I'll try to quickly accept improvements to the repository after review (make my life easier, and it will be faster). *As of now, the 3rd edition supplements are most in need.*
 <br/>
 <br/>
 <br/>
